@@ -92,7 +92,7 @@ A bespoke, royal, editorial, and responsive wedding invitation website designed 
 
 ## ⚙️ How to Customize / Edit Details
 
-All wedding details are centralized in `js/config.js`. You can change:
+All wedding details are centralized in **[`js/config.js`](file:///c:/Users/Lenovo/Downloads/shaadi%20cards/js/config.js)**. You can change:
 * Couple names & biographies
 * Wedding date, time, and countdown target
 * Hotel name, address, and Google Maps URL
